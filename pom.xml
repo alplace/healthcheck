@@ -70,7 +70,7 @@
             <artifactId>jaxrs</artifactId>
         </dependency>
 
-        <!-- Add microprofile health check fraction -->
+        <!-- Add microprofile health check fraction xx -->
         <!-- <dependency>
             <groupId>io.thorntail</groupId>
             <artifactId>microprofile-health</artifactId>
