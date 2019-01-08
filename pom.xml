@@ -71,10 +71,10 @@
         </dependency>
 
         <!-- Add microprofile health check fraction -->
-        <!-- <dependency>
+        <dependency>
             <groupId>io.thorntail</groupId>
             <artifactId>microprofile-health</artifactId>
-        </dependency> -->
+        </dependency>
         
         <dependency>
             <groupId>io.thorntail</groupId>
